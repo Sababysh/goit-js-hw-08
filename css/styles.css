@@ -19,9 +19,3 @@
     display: block;
     transition: transform 0.3s ease;
 }
-
-.gallery-image:hover {
-    cursor: url('../icons.svg#cursor-icon'), auto;
-    transform: scale(1.05);
-    z-index: 10;
-}
